@@ -1,5 +1,5 @@
 import './App.css';
-
+import QuestionBox from "./QuestionBox";
 function App() {
   return (
     <div>
